@@ -2,19 +2,55 @@
 
 # Welcome to the site, let's learn some markdown
 
-## Summary
-A collection of completed projects that I'm able to share with the public. Each project will contain
-the following.
-1. Project Summary(slides)
-2. Source Code(repo)
-3. Data(sample or real world)
+
 
 ## TOC
 ### Projects
 -Used Car Price Prediction
 -
 
+- [Summary](#summary)
+  * [Sub-heading](#sub-heading)
+    + [Sub-sub-heading](#sub-sub-heading)
+- [Project List](#heading-1)
+  * [Sub-heading](#sub-heading-1)
+    + [Sub-sub-heading](#sub-sub-heading-1)
 
+
+
+# Heading levels
+
+> This is a fixture to test heading levels
+
+<!-- toc -->
+
+## Summary
+
+A collection of completed projects that I'm able to share with the public. Each project will contain
+the following.
+1. Project Summary(slides)
+2. Source Code(repo)
+3. Data(sample or real world)
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
+
+## Heading
+
+This is an h1 heading
+
+### Sub-heading
+
+This is an h2 heading
+
+#### Sub-sub-heading
+
+This is an h3 heading
 
 
 
