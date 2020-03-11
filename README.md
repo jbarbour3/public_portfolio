@@ -1,3 +1,61 @@
+
+
+# Welcome to the site, let's learn some markdown
+
+## Summary
+A collection of completed projects that I'm able to share with the public. Each project will contain
+the following.
+1. Project Summary(slides)
+2. Source Code(repo)
+3. Data(sample or real world)
+
+## TOC
+### Projects
+-Used Car Price Prediction
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jbarbour3/public_portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
